@@ -1,0 +1,101 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: white;
+}
+
+h2 {
+    font-family: montserrat;
+    font-size: x-large;
+    font-weight: bolder;
+    color: rgb(250, 94, 188);
+}
+
+h3 {
+    font-family: Montserrat;
+    font-weight: 700;
+    color: rgb(38, 26, 203);
+}
+
+.fs-2 {
+    font-family: Montserrat;
+    font-weight:600;
+    color: rgb(141, 4, 86);
+}
+
+p {
+    font-family: Montserrat;
+    font-size: 15pt;
+    font-weight: 600;
+    color: rgb(38, 26, 203);
+}
+
+.Namae {
+    color: rgb(250, 94, 188);
+}
+
+.navbar {
+    background-color: white;
+}
+
+.nav-item {
+    font-family: Montserrat;
+    font-weight:600;
+    font-size: 14pt;
+    letter-spacing: 1.5px;
+}
+
+.nav-link {
+    color: rgb(38, 26, 203);
+    
+}
+
+.nav-item .nav-link.active {
+    color: rgb(250, 94, 188);
+}
+
+.nav-link:hover {
+    color: rgb(250, 94, 188);
+}
+
+#NewArtist {
+    margin-top: 50pt;
+    margin-bottom: 50pt;
+}
+
+
+.parallelogram {
+	width: 500px;
+	height: 50px;
+	transform: skew(20deg);
+	background: rgb(38, 26, 203);
+}
+
+.Video {
+    overflow: hidden;
+}
+
+.small-box {
+    max-width: 100%;
+    min-height: 100px;
+    background-color: rgb(250, 94, 188);
+}
+
+.ProfileType {
+    font-family: Montserrat;
+    font-size: 15pt;
+    font-weight: 400;
+    color: black;
+}
+
+.ProfileType2 {
+    font-family: Montserrat;
+    font-size: 13pt;
+    font-weight: 400;
+    color: black;
+}
+
